@@ -36,3 +36,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+![Snake animation](https://github.com/Zsubzeroz/Zsubzeroz/blob/output/github-contribution-grid-snake.svg%29)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/Zsubzeroz=Zsubzeroz&repo=Zsubzeroz&theme=react%29)](https://github.com/Zsubzeroz/Zsubzeroz)
