@@ -1,5 +1,10 @@
 # Bem-vindo(a) ao perfil de Luan Estifer! 😎♟️🎶
 
+- Universitário em Engenharia de Software
+- Fullstack
+- Cursou Robótica Básica, Montagem e Manutenção de Computadores
+- Informática Avançada, Inglês Básico
+
 ## Estatísticas do GitHub
 
 <div>
