@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil de Luan Estifer! 😎♟️🎶
+# Bem-vindo(a) ao perfil do Luan Estifer! 😎♟️🎶
 
 - Universitário em Engenharia de Software
 - Fullstack
