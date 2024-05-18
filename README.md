@@ -39,7 +39,7 @@
   </a>
 </div>
 
-<!--![Snake animation](https://github.com/Zsubzeroz/Zsubzeroz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Zsubzeroz/Zsubzeroz/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Zsubzeroz&repo=Zsubzeroz&theme=react)](https://github.com/Zsubzeroz/Zsubzeroz)-->
+![readme](https://github-readme-stats.vercel.app/api/pin/?username=Zsubzeroz&repo=Zsubzeroz&theme=react)](https://github.com/Zsubzeroz/Zsubzeroz)
 adicione c++ no final da lista de tecnologias.
