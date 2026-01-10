@@ -1,32 +1,63 @@
-# OLá, eu sou Luan Estifer 😎♟️🎶
+# Olá, eu sou Luan Estifer 👋 😎 ♟️ 🎶
 
-- 🎓 Graduando em Engenharia de Software
-- 💻 Desenvolvedor Fullstack
-- 🤖 Robótica Básica, Montagem e Manutenção de Computadores
-- 🌐 Informática Avançada e Inglês Básico
+<p align="center">
+  <b>Futuro Engenheiro de Software | Desenvolvedor Full Stack | Entusiasta de Robótica</b>
+</p>
 
-## Tecnologias
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-</div>
+### 🎯 Objetivo
+Busco minha primeira oportunidade de **Estágio em Engenharia de Software**. Quero aplicar meu raciocínio lógico e conhecimentos em C++, Web e Robótica para contribuir em projetos inovadores e aprender com times de alto nível.
 
-## Redes Sociais
+---
 
-<div align="center"> 
-  <a href="https://instagram.com/cavaleirodalua232" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:luanestiferjob@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/luan-estifer-rodrigues-pereira-7577a2285" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+### 🎓 Formação Acadêmica
+- **Engenharia de Software** | Unicesumar (2024 — 2029)
+- **Inglês**: Nível Intermediário.
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens (Foco)** | ![C++] ![Java] ![Python] ![JavaScript] ![C#] |
+| **Frontend** | ![Angular] ![React] ![HTML5] ![CSS3] |
+| **Backend & DB** | ![Node.js] ![MySQL] |
+| **Ferramentas** | ![Git] ![GitHub] ![Scrum] ![Linux] ![Windows] |
+| **Design/Office** | Photoshop, Corel Draw, Pacote Office Avançado |
+
+---
+
+### 🤖 Projetos de Destaque
+
+*   **Braço Robótico (Arduino + Python):** Desenvolvimento de hardware e software para controle de múltiplos graus de liberdade via interface gráfica.
+*   **Carro de Controle Remoto:** Projeto embarcado com foco em eletrônica e comunicação sem fio.
+*   **Fundador do Clube de Xadrez Munhoz:** Liderança e organização de torneios (2021-2023).
+
+---
+
+### 📫 Contato
+- 📞 **WhatsApp:** +55 19 99722-2694
+- 📧 **E-mail:** luanestiferjob@gmail.com
+- 💼 **LinkedIn:** [Clique Aqui](https://www.linkedin.com/in/luanestifer/)
+- 🌐 **Portfólio:** [Acesse meu Portfólio](https://zsubzeroz.github.io/Portifolio-simplificado/)
+
+---
+
+<!-- Definições de Badges -->
+[C++]: https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white
+[Java]: https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white
+[Python]: https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
+[C#]: https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white
+[Angular]: https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white
+[React]: https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+[MySQL]: https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white
+[Git]: https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
+[GitHub]: https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+[Scrum]: https://img.shields.io/badge/Scrum-00ADEE?style=flat&logo=scrumalliance&logoColor=white
+[Linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
+[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
+[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
