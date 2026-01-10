@@ -5,13 +5,6 @@
 - 🤖 Robótica Básica, Montagem e Manutenção de Computadores
 - 🌐 Informática Avançada e Inglês Básico
 
-## Estatísticas
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zsubzeroz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zsubzeroz&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br" />
-</div>
-
 ## Tecnologias
 
 <div align="center">
