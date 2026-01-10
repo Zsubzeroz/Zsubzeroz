@@ -1,4 +1,4 @@
-# Luan Estifer 😎♟️🎶
+# OLá, eu sou Luan Estifer 😎♟️🎶
 
 - 🎓 Graduando em Engenharia de Software
 - 💻 Desenvolvedor Fullstack
