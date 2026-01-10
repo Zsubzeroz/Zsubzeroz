@@ -7,7 +7,7 @@
 ---
 
 ### 🎯 Objetivo
-Busco minha primeira oportunidade de **Estágio em Engenharia de Software**. Quero aplicar meu raciocínio lógico e conhecimentos em C++, Web e Robótica para contribuir em projetos inovadores e aprender com times de alto nível.
+Busco minha primeira oportunidade de **Estágio em Engenharia de Software**. Quero aplicar meu raciocínio lógico e conhecimentos em Python, Web e Robótica para contribuir em projetos inovadores e aprender com times de alto nível.
 
 ---
 
