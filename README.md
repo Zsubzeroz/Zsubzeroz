@@ -1,7 +1,7 @@
 # Olá, eu sou Luan Estifer 👋 😎 ♟️ 🎶
 
 <p align="center">
-  <b>Futuro Engenheiro de Software | Desenvolvedor Full Stack | Entusiasta de Robótica</b>
+  $\color{red}{\text{Futuro Engenheiro de Software | Desenvolvedor Full Stack | Entusiasta de Robótica}}$
 </p>
 
 ---
