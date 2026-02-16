@@ -12,7 +12,7 @@ Busco minha primeira oportunidade de **Estágio em Engenharia de Software**. Que
 ---
 
 ### 🎓 Formação Acadêmica
-- **Engenharia de Software** | Unicesumar (2024 — 2028)
+- **Engenharia de Software** | Unicesumar (2023 — 2027)
 - **Inglês**: Nível Intermediário.
 
 ---
