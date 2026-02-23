@@ -21,9 +21,9 @@ Busco minha primeira oportunidade de **Estágio em Engenharia de Software**. Que
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens (Foco)** | ![C++] ![Java] ![Python] ![JavaScript] ![C#] |
+| **Linguagens (Foco)** | ![Python] ![C++] ![Java] ![JavaScript] ![C#] |
 | **Frontend** | ![Angular] ![React] ![HTML5] ![CSS3] |
-| **Backend & DB** | ![Node.js] ![MySQL] |
+| **Backend & DB** | ![Django] ![Node.js] ![MySQL] |
 | **Ferramentas** | ![Git] ![GitHub] ![Scrum] ![Linux] ![Windows] |
 | **Design/Office** | Photoshop, Corel Draw, Pacote Office Avançado |
 
@@ -54,6 +54,7 @@ Busco minha primeira oportunidade de **Estágio em Engenharia de Software**. Que
 [Angular]: https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white
 [React]: https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
+[Django]: https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
 [MySQL]: https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white
 [Git]: https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 [GitHub]: https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
@@ -61,3 +62,4 @@ Busco minha primeira oportunidade de **Estágio em Engenharia de Software**. Que
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white
+[Windows]: https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white
