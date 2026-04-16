@@ -60,5 +60,3 @@ Busco minha primeira oportunidade como **Desenvolvedor Python Júnior** ou **Est
 [Docker]: https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black
 [Windows]: https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white
-
----
