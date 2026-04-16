@@ -41,7 +41,7 @@ Busco minha primeira oportunidade de **Estágio em Engenharia de Software**. Que
 - 📞 **WhatsApp:** +55 19 99722-2694
 - 📧 **E-mail:** luanestiferpy@gmail.com
 - 💼 **LinkedIn:** [Clique Aqui](https://www.linkedin.com/in/luanestifer)
-- 🌐 **Portfólio:** [Acesse meu Portfólio](https://zsubzeroz.github.io/Portifolio-simplificado)
+- 🌐 **Portfólio:** [Acesse meu Portfólio]([https://zsubzeroz.github.io/Portifolio-simplificado](https://zsubzeroz.github.io/Portifolio/))
 
 ---
 
