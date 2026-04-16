@@ -1,20 +1,23 @@
 # Olá, eu sou Luan Estifer 👋 😎 ♟️ 🎶
 
 <h2 align="center">
-  $\color{red}{\text{Futuro Engenheiro de Software | Desenvolvedor Python | Entusiasta de Automação}}$
+  $\color{red}{\text{Software Engineer | Strategist | Pianist | Python Specialist}}$
 </h2>
 
 ---
 
-### 🎯 Objetivo
-Busco minha primeira oportunidade como **Desenvolvedor Python Júnior** ou **Estagiário em Engenharia de Software**. Unindo meu raciocínio estratégico (ex-líder de xadrez) e minha experiência prática com automação industrial e ERP, foco em construir sistemas eficientes e escaláveis.
+### 🚀 Sobre Mim
+Sou um futuro Engenheiro de Software movido por lógica, estratégia e criatividade. Minha confiança vem da minha base: no **piano**, aprendi a disciplina e o foco; no **xadrez**, aprendi a antecipar problemas e traçar estratégias vencedoras; na **tecnologia**, aplico tudo isso para construir sistemas robustos e automatizados.
+
+Com **1,5 anos de vivência profissional** em ambientes industriais, já provei que consigo transformar processos complexos em soluções simples usando Python e SQL.
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🎓 Formação & Diferenciais
 - **Engenharia de Software** | UniCesumar (2023 — 2027)
-- **Inglês**: Nível B2 - Upper Intermediate (SEDA College / Fluency Academy)
-- **Média Acadêmica**: 8,4 (Destaque em Técnicas de Programação: 9,7)
+- **Média Acadêmica**: 8,4 (**Nota 9,7** em Técnicas de Programação)
+- **Inglês**: Nível B2 - SEDA College / Fluency Academy
+- **Lógica Pura**: Vencedor da Olimpíada de Astronomia e Ex-Líder da Equipe de Xadrez Munhoz.
 
 ---
 
@@ -24,24 +27,24 @@ Busco minha primeira oportunidade como **Desenvolvedor Python Júnior** ou **Est
 | :--- | :--- |
 | **Linguagens (Foco)** | ![Python] ![Java] ![C#] ![JavaScript] ![SQL] |
 | **Frameworks** | ![Django] ![Node.js] ![Angular] ![React] |
-| **Ferramentas** | ![Git] ![GitHub] ![Docker] ![Linux] ![Windows] |
 | **Business & ERP** | **Protheus (ERP)**, Automação de KPIs, Excel Avançado (ETL) |
+| **Ferramentas** | ![Git] ![GitHub] ![Docker] ![Linux] ![Windows] |
 
 ---
 
-### 🤖 Projetos de Destaque
+### 🤖 Projetos & Conquistas
 
-*   **[Gestão de Cozinha & Insumos](https://github.com/Zsubzeroz/cozinha-restaurante):** Sistema Backend robusto em Django com lógica complexa de estoque e persistência de dados.
-*   **Braço Robótico (Arduino + Python):** Desenvolvimento de hardware e software para controle de múltiplos graus de liberdade via interface gráfica.
-*   **Estratégia e Liderança:** Ex-líder da Equipe de Xadrez Munhoz (2022-2023) e Vencedor da Olimpíada de Astronomia.
+*   **🎹 Disciplina & Código:** Aplico a precisão do piano na escrita de código limpo e semântico.
+*   **♟️ [Estratégia de Backend](https://github.com/Zsubzeroz/cozinha-restaurante):** Meu sistema de Gestão de Cozinha reflete meu pensamento estratégico — lógica de estoque complexa e zero erro de dados.
+*   **⚡ Automação IA:** Digitalizei processos operacionais e automatizei indicadores que antes eram manuais, focando sempre em alta performance.
 
 ---
 
-### 📫 Contato
+### 📫 Contato (Direto com o Protagonista)
 - 📞 **WhatsApp:** [+55 19 99722-2694](https://wa.me/5519997222694)
 - 📧 **E-mail:** luanestiferpy@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/luanestifer](https://www.linkedin.com/in/luanestifer)
-- 🎥 **Vídeo de Apresentação:** [Assista meu Pitch (2 min)](https://www.loom.com/share/0f49c21960fb459eaa6bdbbdccc4237c)
+- 💼 **LinkedIn:** [luanestifer](https://www.linkedin.com/in/luanestifer)
+- 🎥 **Meu Pitch (2 min):** [Assista e conheça minha postura](https://www.loom.com/share/0f49c21960fb459eaa6bdbbdccc4237c)
 
 ---
 
