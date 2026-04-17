@@ -42,6 +42,16 @@ Minha mentalidade é moldada por três pilares:
 
 ---
 
+### 📸 Galeria de Projetos (Visual Proof)
+> **Veja meus robôs e projetos de hardware em ação:**
+<p align="left">
+  <a href="https://photos.app.goo.gl/8oraRs4W9MTSeE1x8" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Galeria_Robótica-📸-FF6600?style=for-the-badge&logo=google-photos&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🎓 Formação & Diferenciais
 - **Engenharia de Software** | UniCesumar (2023 — 2027)
 - **Média Acadêmica**: 8,4 (**Nota 9,7** em Técnicas de Programação)
