@@ -1,7 +1,7 @@
 # Olá, eu sou Luan Estifer 👋 😎 ♟️ 🎶 🤖
 
 <h2 align="center">
-  $\color{red}{\text{Software Engineer | Strategist | Pianist | Robotics & Python Specialist}}$
+  $\color{red}{\text{Software Engineer | Strategist | Pianist | Robotics and Python Specialist}}$
 </h2>
 
 <p align="center">
