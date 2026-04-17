@@ -1,23 +1,24 @@
-# Olá, eu sou Luan Estifer 👋 😎 ♟️ 🎶
+# Olá, eu sou Luan Estifer 👋 😎 ♟️ 🎶 🤖
 
 <h2 align="center">
-  $\color{red}{\text{Software Engineer | Strategist | Pianist | Python Specialist}}$
+  $\color{red}{\text{Software Engineer | Strategist | Pianist | Robotics & Python Specialist}}$
 </h2>
 
 ---
 
 ### 🚀 Sobre Mim
-Sou um futuro Engenheiro de Software movido por lógica, estratégia e criatividade. Minha confiança vem da minha base: no **piano**, aprendi a disciplina e o foco; no **xadrez**, aprendi a antecipar problemas e traçar estratégias vencedoras; na **tecnologia**, aplico tudo isso para construir sistemas robustos e automatizados.
+Sou um futuro Engenheiro de Software com **29 meses de experiência profissional** e uma base técnica forjada na resolução de problemas complexos. Minha jornada une a precisão do **piano**, a estratégia do **xadrez** e a curiosidade da **robótica**. 
 
-Com **1,5 anos de vivência profissional** em ambientes industriais, já provei que consigo transformar processos complexos em soluções simples usando Python e SQL.
+Embora minha trajetória profissional tenha começado em outras áreas, sempre fui o protagonista da tecnologia por onde passei: utilizei **Python e SQL** para automatizar processos e gerar inteligência de dados em ambientes industriais (ERP Protheus). Minha confiança vem da prática: entendo desde o bit do hardware até a arquitetura do backend.
 
 ---
 
 ### 🎓 Formação & Diferenciais
 - **Engenharia de Software** | UniCesumar (2023 — 2027)
+- **Experiência Profissional Acumulada**: 2 anos e 5 meses.
 - **Média Acadêmica**: 8,4 (**Nota 9,7** em Técnicas de Programação)
 - **Inglês**: Nível B2 - SEDA College / Fluency Academy
-- **Lógica Pura**: Vencedor da Olimpíada de Astronomia e Ex-Líder da Equipe de Xadrez Munhoz.
+- **Lógica & Ciência**: Ex-Líder da Equipe de Xadrez Munhoz e Vencedor da Olimpíada de Astronomia.
 
 ---
 
@@ -25,18 +26,20 @@ Com **1,5 anos de vivência profissional** em ambientes industriais, já provei 
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens (Foco)** | ![Python] ![Java] ![C#] ![JavaScript] ![SQL] |
+| **Linguagens (Foco)** | ![Python] ![Java] ![C#] ![JavaScript] ![SQL] ![C++] |
 | **Frameworks** | ![Django] ![Node.js] ![Angular] ![React] |
+| **Hardware & Robótica** | **Arduino**, Microcontroladores, Eletrônica Básica, Integração Hardware-Software |
 | **Business & ERP** | **Protheus (ERP)**, Automação de KPIs, Excel Avançado (ETL) |
 | **Ferramentas** | ![Git] ![GitHub] ![Docker] ![Linux] ![Windows] |
 
 ---
 
-### 🤖 Projetos & Conquistas
+### 🤖 Trajetória & Soluções Técnicas
 
-*   **🎹 Disciplina & Código:** Aplico a precisão do piano na escrita de código limpo e semântico.
-*   **♟️ [Estratégia de Backend](https://github.com/Zsubzeroz/cozinha-restaurante):** Meu sistema de Gestão de Cozinha reflete meu pensamento estratégico — lógica de estoque complexa e zero erro de dados.
-*   **⚡ Automação IA:** Digitalizei processos operacionais e automatizei indicadores que antes eram manuais, focando sempre em alta performance.
+*   **🦾 Robótica (Microlins):** Desenvolvi robôs do zero, desde projetos com **Arduino** até a construção de **carros de controle remoto**, lidando com toda a lógica de sensores e motores.
+*   **⚡ Automação de Negócio:** Identifiquei gargalos e criei scripts em Python que automatizaram a extração de KPIs de sistemas complexos, reduzindo drasticamente o tempo de análise manual.
+*   **♟️ [Engenharia de Backend](https://github.com/Zsubzeroz/cozinha-restaurante):** Meu sistema de Gestão de Cozinha é um reflexo do meu pensamento estratégico aplicado ao código — lógica complexa e integridade total de dados.
+*   **🎹 Disciplina:** Aplico a técnica e o foco exigidos pelo piano para entregar códigos limpos, documentados e de alta performance.
 
 ---
 
@@ -44,7 +47,7 @@ Com **1,5 anos de vivência profissional** em ambientes industriais, já provei 
 - 📞 **WhatsApp:** [+55 19 99722-2694](https://wa.me/5519997222694)
 - 📧 **E-mail:** luanestiferpy@gmail.com
 - 💼 **LinkedIn:** [luanestifer](https://www.linkedin.com/in/luanestifer)
-- 🎥 **Meu Pitch (2 min):** [Assista e conheça minha postura](https://www.loom.com/share/0f49c21960fb459eaa6bdbbdccc4237c)
+- 🎥 **Meu Pitch (2 min):** [Conheça minha postura e comunicação](https://www.loom.com/share/0f49c21960fb459eaa6bdbbdccc4237c)
 
 ---
 
@@ -54,6 +57,7 @@ Com **1,5 anos de vivência profissional** em ambientes industriais, já provei 
 [C#]: https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
 [SQL]: https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white
+[C++]: https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white
 [Django]: https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white
 [Node.js]: https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white
 [Angular]: https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white
