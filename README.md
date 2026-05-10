@@ -1,24 +1,25 @@
 # Olá, eu sou Luan Estifer 👋 😎 ♟️ 🎶 🤖
 
 <h2 align="center">
-  $\color{red}{\text{Software Engineer | Strategist | Pianist | Robotics and Python Specialist}}$
+  $\color{red}{\text{Software Engineer | AI Builder | Strategist | Pianist}}$
 </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-29_Months_Professional-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI_%26_LLMs-Prompt_Engineering-9cf?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/English-B2_Intermediate-green?style=for-the-badge" />
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
-Sou um futuro Engenheiro de Software movido por lógica, estratégia e criatividade. Minha confiança é baseada em resultados reais: possuo **29 meses de experiência profissional**, onde atuei como protagonista na automação de processos industriais. Embora minha trajetória tenha raízes no setor administrativo, utilizei **Python e SQL** para converter regras de negócio complexas em inteligência de dados (ERP Protheus).
+Sou um futuro Engenheiro de Software movido por lógica, estratégia e inovação. Minha confiança é baseada em resultados reais: possuo **29 meses de experiência profissional**, onde atuei como protagonista na digitalização e automação de processos industriais. Embora minha trajetória tenha raízes no "chão de fábrica", utilizo **Python, SQL e IA Generativa (LLMs/Agentes)** para converter regras de negócio complexas em inteligência de dados (ERP Protheus).
 
 Minha mentalidade é moldada por três pilares:
-*   **A Estratégia do Xadrez:** Como ex-líder de equipe, aprendi a antecipar falhas e planejar arquiteturas robustas.
-*   **A Disciplina do Piano:** Aplico o foco e a precisão técnica do instrumento em cada linha de código.
-*   **A Engenharia da Robótica:** Desenvolvi projetos de hardware e software (Arduino/RC), dominando a lógica desde o sensor até o backend.
+*   **A Estratégia do Xadrez:** Como ex-líder de equipe, aprendi a antecipar falhas e planejar arquiteturas robustas de software.
+*   **A Disciplina do Piano:** Aplico o foco e a precisão técnica do instrumento para garantir *Clean Code* em cada linha que escrevo.
+*   **A Engenharia da Robótica:** Desenvolvi projetos de hardware e software (Arduino), dominando a lógica de sistemas ponta a ponta (do sensor ao backend).
 
 ---
 
@@ -27,18 +28,20 @@ Minha mentalidade é moldada por três pilares:
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Python] ![Java] ![C#] ![JavaScript] ![SQL] ![C++] |
+| **IA & Cloud** | **IA Generativa**, Prompt Engineering, Amazon Bedrock, Claude 3, AWS Foundations |
 | **Frameworks** | ![Django] ![Node.js] ![Angular] ![React] |
 | **Hardware & IoT** | **Arduino**, Eletrônica, Integração Hardware-Software, Projetos de Robótica |
-| **Business & ERP** | **Protheus (ERP)**, Automação de KPIs, Excel Avançado (ETL) |
+| **Business & Dados**| **Protheus (ERP)**, Automação de KPIs, Excel Avançado (ETL), AppSheet |
 | **Ferramentas** | ![Git] ![GitHub] ![Docker] ![Linux] ![Windows] |
 
 ---
 
-### 🤖 Trajetória & Soluções Técnicas
+### 🤖 Trajetória & Projetos de Destaque
 
-*   **🦾 [Robótica & Arduino](https://github.com/Zsubzeroz):** Projetos desenvolvidos na Microlins, indo de automação residencial básica até a construção de carros de controle remoto integrados.
-*   **⚡ Automação de Dados:** Desenvolvimento de scripts em Python para extração de métricas de alta criticidade, eliminando processos manuais e garantindo a integridade da informação.
-*   **♟️ [Engenharia de Backend](https://github.com/Zsubzeroz/cozinha-restaurante):** Sistema de Gestão de Cozinha com Django, aplicando lógica de estoque avançada e arquitetura modular.
+*   **🧠 [StudyFlow-AI](https://github.com/Zsubzeroz/studyflow-ai):** Prototipagem de solução de IA Generativa para otimização de aprendizado, unindo engenharia de prompt e integração de APIs de LLM.
+*   **♟️ [Xadrez-Chess Engine](https://github.com/Zsubzeroz/Xadrez-Chess):** Motor de jogo de estratégia em JavaScript, aplicando manipulação complexa de matrizes e lógica avançada.
+*   **⚙️ [Engenharia de Backend](https://github.com/Zsubzeroz/cozinha-restaurante):** Sistema de Gestão de Restaurante com Django (CRUD Full-Stack), aplicando arquitetura MVC e persistência de dados.
+*   **🦾 Robótica & Arduino:** Projetos desenvolvidos indo de automação residencial básica até a construção de carros de controle remoto. *(Veja a galeria abaixo!)*
 
 ---
 
@@ -55,7 +58,8 @@ Minha mentalidade é moldada por três pilares:
 ### 🎓 Formação & Diferenciais
 - **Engenharia de Software** | UniCesumar (2023 — 2027)
 - **Média Acadêmica**: 8,4 (**Nota 9,7** em Técnicas de Programação)
-- **Idiomas**: Inglês B2 (Upper Intermediate) pela **SEDA College & Fluency Academy**
+- **Bootcamp Nexa:** Formação focada em IA Generativa & AWS
+- **Idiomas**: Inglês B2 (Upper Intermediate) pela SEDA College & Fluency Academy
 - **Prêmios**: Vencedor da Olimpíada de Astronomia | Ex-Líder do Clube de Xadrez Munhoz
 
 ---
@@ -68,12 +72,14 @@ Minha mentalidade é moldada por três pilares:
 
 ---
 
-### 📫 Contato
+### 📫 Contato & Currículo
 <p align="left">
-  <a href="https://wa.me/5519997222694" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <!-- Link do seu PDF aqui embaixo: -->
+  <a href="COLE_O_LINK_DO_SEU_PDF_AQUI" target="_blank"><img src="https://img.shields.io/badge/📄_Baixar_Currículo-0a192f?style=for-the-badge"></a>
+  <a href="https://www.loom.com/share/0f49c21960fb459eaa6bdbbdccc4237c" target="_blank"><img src="https://img.shields.io/badge/-Pitch_em_Vídeo-625df5?style=for-the-badge&logo=loom&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/luanestifer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5519997222694" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:luanestiferpy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.loom.com/share/0f49c21960fb459eaa6bdbbdccc4237c" target="_blank"><img src="https://img.shields.io/badge/-Apresentação_Vídeo-625df5?style=for-the-badge&logo=loom&logoColor=white"></a>
 </p>
 
 <!-- Definições de Badges -->
