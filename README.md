@@ -56,11 +56,12 @@ Minha mentalidade é moldada por três pilares:
 ---
 
 ### 🎓 Formação & Diferenciais
-- **Engenharia de Software** | UniCesumar (2023 — 2027)
-- **Média Acadêmica**: 8,4 (**Nota 9,7** em Técnicas de Programação)
-- **Bootcamp Nexa:** Formação focada em IA Generativa & AWS
-- **Idiomas**: Inglês B2 (Upper Intermediate) pela SEDA College & Fluency Academy
-- **Prêmios**: Vencedor da Olimpíada de Astronomia | Ex-Líder do Clube de Xadrez Munhoz
+- **Engenharia de Software** | UniCesumar (2023 — 2027) [INDEX]
+  - *Média Acadêmica*: 8,4 (**Nota 9,7** em Técnicas de Programação) [INDEX]
+- **Defesa Cibernética** | Estácio (Iniciado em 06/2026) [INDEX]
+- **Bootcamp Nexa:** Formação focada em IA Generativa & AWS [INDEX]
+- **Idiomas**: Inglês B2 (Upper Intermediate) pela SEDA College & Fluency Academy [INDEX]
+- **Prêmios**: Vencedor da Olimpíada de Astronomia | Ex-Líder do Clube de Xadrez Munhoz [INDEX]
 
 ---
 
@@ -76,10 +77,10 @@ Minha mentalidade é moldada por três pilares:
 <p align="left">
   <!-- Link do seu PDF aqui embaixo: -->
   <a href="COLE_O_LINK_DO_SEU_PDF_AQUI" target="_blank"><img src="https://img.shields.io/badge/📄_Baixar_Currículo-0a192f?style=for-the-badge"></a>
-  <a href="https://www.loom.com/share/0f49c21960fb459eaa6bdbbdccc4237c" target="_blank"><img src="https://img.shields.io/badge/-Pitch_em_Vídeo-625df5?style=for-the-badge&logo=loom&logoColor=white"></a>
+  <a href="https://drive.google.com/drive/folders/14KVizLfKQgA2hmz_ZtzH4pkyUzZz328D?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/📂_Certificados_(Drive)-008a47?style=for-the-badge"></a>
+  <a href="https://youtu.be/vIrBZTo8udA" target="_blank"><img src="https://img.shields.io/badge/-Pitch_em_Vídeo-625df5?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/luanestifer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5519997222694" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="mailto:luanestiferpy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <!-- Definições de Badges -->
